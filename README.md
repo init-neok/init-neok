@@ -8,7 +8,7 @@ I am **Kening Zheng**, a first-year PhD student in Computer Science at the
 - ⚡ Skilled in **Python / C++ / TypeScript / Shell**.
 - 📋 Passionate about exploring the intersection of **AI, optimization, and intelligent systems**.
 - 💬 Open for collaboration and discussions on **RL, LLMs, and trustworthy AI**.
-- 📧 Contact: neok_zkn@stu.xjtu.edu.cn  
+- 📧 Contact: neok2zkn@gmail.com 
 
 ---
 
@@ -31,5 +31,4 @@ I am **Kening Zheng**, a first-year PhD student in Computer Science at the
 
 ### 🌱 Current Motto  
 
-#### **👨🏽‍💻 Not excellent enough now, but sufficient potential in the future.**  
 #### **All efforts are not made for nothing.** ✨
