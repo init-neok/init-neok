@@ -1,20 +1,35 @@
-### Welcome to My page 👋 ###
+### Welcome to My Page 👋
 
-I am Kening Zheng, a second-year master SE student in SICDP, [Xian Jiaotong University](http://en.xjtu.edu.cn/).
+I am **Kening Zheng**, a first-year PhD student in Computer Science at the  
+[University of Illinois Chicago (UIC)](https://cs.uic.edu/).
 
-- 🔭 Totally I am interested in Machine Learning, Data Mining and NLP.
-- 🍻 Now, I am researching in Prompt Learning, Fake detection and LMs.
-- 📋 Under the guidance of [Prof. Rao](https://gr.xjtu.edu.cn/en/web/raoyuan/1).
-- ⚡  Python/C++/Matlab/Shell.
+- 🔭 My research interests lie in **Reinforcement Learning (RL)** and **Large Language Models (LLMs)**.
+- 👨‍🏫 Currently under the guidance of [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/).
+- ⚡ Skilled in **Python / C++ / TypeScript / Shell**.
+- 📋 Passionate about exploring the intersection of **AI, optimization, and intelligent systems**.
+- 💬 Open for collaboration and discussions on **RL, LLMs, and trustworthy AI**.
+- 📧 Contact: neok_zkn@stu.xjtu.edu.cn  
 
-- 💬 Feel free to ask questions if I know.
-  
-- 📧 neok_zkn@stu.xjtu.edu.cn
+---
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=init-neok&count_private=true&show_icons=true" />
+### 📊 GitHub Stats & Contributions  
 
-#### **👨🏽‍💻Not excellent enough now, but sufficient potential in the future**. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=init-neok&count_private=true&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=init-neok&theme=radical" height="160"/>
+</p>
 
-## All efforts are not made for nothing. 
+---
 
+### 🚀 Skills & Tools  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,pytorch,tensorflow,bash,git,latex,vscode&perline=5" />
+</p>
+
+---
+
+### 🌱 Current Motto  
+
+#### **👨🏽‍💻 Not excellent enough now, but sufficient potential in the future.**  
+#### **All efforts are not made for nothing.** ✨
